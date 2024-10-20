@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "json-server api/db.json"
+    "start": "json-server api/db.json --port 80"
   },
   "dependencies": {
     "json-server": "^0.17.0"
